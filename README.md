@@ -1,11 +1,3 @@
-```python
-# Vamos criar um arquivo README.md bem estruturado e profissional em Markdown para o usuário.
-readme_content = """# Sistema de E-Commerce com Padrão de Projeto Adapter
-
-Este projeto foi desenvolvido com o objetivo de consolidar e demonstrar na prática o aprendizado do padrão de projeto estrutural **Adapter**, utilizando a linguagem **Java**.
-
----
-
 ## 🔵 O Cenário do Problema
 
 Em sistemas de e-commerce reais, a integração com gateways de pagamento (fintechs, bancos, intermediadores) é uma constante. No entanto, cada fornecedor externo possui sua própria API, nomes de métodos e formatos de dados específicos. 
